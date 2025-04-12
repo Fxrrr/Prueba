@@ -482,9 +482,9 @@ console.error(e)
 
 global.dfail = (type, m, conn) => {
 const msg = {
-rowner: `🚩 Hola, este comando solo puede ser utilizado por *@Sisked*.`,
-owner: `👤 Usuario, Este Comando Solo Puede Ser Utilizado Por *@Sisked*.`,
-mods: `🤚🏻 Hola, este comando solo puede ser utilizado por *@Sisked*.`,
+rowner: `🚩 Hola, este comando solo puede ser utilizado por *@Zerwaybot*.`,
+owner: `👤 Usuario, Este Comando Solo Puede Ser Utilizado Por *@Zerwaybot*.`,
+mods: `🤚🏻 Hola, este comando solo puede ser utilizado por *@Zerwaybot*.`,
 premium: `😂 Okey pero, este comando solo puede ser utilizado por Usuarios *Premium*.`,
 group: `💫 Hola, este comando solo puede ser utilizado en *Grupos*.`,
 private: `⚕️ Hola, este comando solo puede ser utilizado en mi Chat *Privado*.`,

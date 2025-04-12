@@ -5,6 +5,6 @@ await conn.sendMessage(m.chat, { contacts: { displayName: 'おDanịel.xyz⁩', 
 }
 handler.help = ['staff']
 handler.tags = ['main']
-handler.command = ['staff', 'programador', 'sisked'] 
+handler.command = ['staff', 'programador', 'Zerwaybot'] 
 
 export default handler

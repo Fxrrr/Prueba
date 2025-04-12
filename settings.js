@@ -43,7 +43,7 @@ global.libreria = 'Baileys'
 global.baileys = '@whiskeysockets/baileys'
 global.vs = '2.0.7'
 global.languaje = 'Español'
-global.nameqr = 'Sisked-x'
+global.nameqr = 'Zerwaybot-x'
 global.namebot = '𝙕𝙚𝙧𝙬𝙖𝙮𝘽𝙤𝙩'
 global.sessions = 'ZarwaySession'
 global.jadi = 'ZerwayJadiBot'
@@ -60,7 +60,7 @@ global.textbot = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝙕𝙚𝙧𝙬𝙖𝙮𝘽�
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.catalogo = fs.readFileSync('./src/img/catalogo.jpg')
-global.siskedurl = fs.readFileSync('./src/img/siskedurl.jpg')
+global.Zerwayboturl = fs.readFileSync('./src/img/Zerwayboturl.jpg')
 global.avatar = fs.readFileSync('./src/img/avatar_contact.png')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -69,8 +69,8 @@ global.grupo = 'https://chat.whatsapp.com/GNByNy3cVEkG1wkFSY3zfr'
 global.channel = 'https://whatsapp.com/channel/0029Vb47YlCLdQemgIavqj0v'
 global.channel2 = 'https://whatsapp.com/channel/0029Vak6H9l3GJP4FJH5063R'
 global.md = 'https://wa.me/qr/OEGLZUMXONHDL1' 
-global.ig = 'https://www.instagram.com/sisked_1'
-global.tiktok = 'https://www.tiktok.com/@sisked1'
+global.ig = 'https://www.instagram.com/Zerwaybot_1'
+global.tiktok = 'https://www.tiktok.com/@Zerwaybot1'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 

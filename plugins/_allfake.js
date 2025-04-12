@@ -43,7 +43,7 @@ global.rwait = '🕒'
 global.done = '✅'
 global.error = '✖️'
 
-//Emojis determinado de Sisked Bot
+//Emojis determinado de Zerwaybot Bot
 global.emoji = '🍁'
 global.emoji2 = '⭐'
 global.emoji3 = '✨️'
@@ -58,8 +58,8 @@ global.waitttt = '🚀 Cargando...'
 
 //Enlaces
 var canal = 'https://whatsapp.com/channel/0029Vb47YlCLdQemgIavqj0v'  
-var tiktok = 'https://www.tiktok.com/@sisked1'  
-var ig = 'https://www.instagram.com/sisked_1'  
+var tiktok = 'https://www.tiktok.com/@Zerwaybot1'  
+var ig = 'https://www.instagram.com/Zerwaybot_1'  
 let correo = 'anuarmazenett@gmail.com'
 
 global.redes = [canal, tiktok, ig, correo].getRandom()

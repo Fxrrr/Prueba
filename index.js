@@ -8,7 +8,7 @@ import cfonts from 'cfonts'
 import { createInterface } from 'readline'
 import yargs from 'yargs'
 import chalk from 'chalk'
-console.log('\n✰ Iniciando Sisked ✰')
+console.log('\n✰ Iniciando Zerwaybot ✰')
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const require = createRequire(__dirname)
 const { name, description, collaborators, author, version } = require(join(__dirname, './package.json'))
@@ -33,7 +33,7 @@ align: 'center',
 gradient: ['blue', 'magenta']
 })
 const message = `${subtitleStyle('Desarrollado por »')} ${responseStyle(author.name)}
-${subtitleStyle('Código basado por »')} ${responseStyle('Sisked')}
+${subtitleStyle('Código basado por »')} ${responseStyle('Zerwaybot')}
 ${subtitleStyle('Colaboradores activos »')} ${responseStyle(activeCollaborators)}
 ${subtitleStyle('Versión »')} ${responseStyle(version)}`
 console.log(boxen(message, { padding: 1, margin: 1, borderStyle: 'double', borderColor: 'blue', float: 'center', }))
@@ -81,4 +81,4 @@ console.warn('🚩 Se excedió el límite de Listeners en:')
 console.warn(warning.stack)
 }
 })
-start('sisked.js')
+start('Zerwaybot.js')
